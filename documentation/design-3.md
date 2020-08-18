@@ -2,6 +2,13 @@
 
 The is the full system demonstrator with a high quality security camera, pelican case, and GoalZero power supply capable of operating for 24h+ (potentially continuous operation with optional solar panel).
 
+## Key Components
+
+- Coral Dev Board
+- IP Camera (Ubiquity G3 Pro)
+- Pelican Case
+- GoalZero Battery
+
 ## Design files
 
 ![SolidWorks Image](documentation/images/005.jpg)

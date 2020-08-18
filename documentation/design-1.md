@@ -2,6 +2,12 @@
 
 This is a simple enclosure intended to house the Google Coral + Camera during development.
 
+## Key Components
+
+- Coral Dev Board
+- Coral Camera
+- 3D Printed Case
+
 ## Design files
 
 ![SolidWorks Image](documentation/images/007.jpg)
