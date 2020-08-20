@@ -16,8 +16,10 @@ There were three designs that we experimented with during the development of the
 
 ### [Design 1]()
 
-IMG
-   
+![documentation/images/dev-case-assembly.gif](documentation/images/dev-case-assembly.gif)
+
+![documentation/images/dev-case-explode.gif](documentation/images/dev-case-explode.gif)
+
 ### [Design 2]()
 
 IMG
