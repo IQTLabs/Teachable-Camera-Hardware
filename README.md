@@ -14,11 +14,10 @@ For details about the software that runs on the Coral see the [EyeQT Software]()
 
 There were three designs that we experimented with during the development of the project.
 
-### [Design 1]()
+### [Design 1 - Simple 3D Printed Coral Case]()
 
-![documentation/images/dev-case-assembly.gif](documentation/images/dev-case-assembly.gif)
-
-![documentation/images/dev-case-explode.gif](documentation/images/dev-case-explode.gif)
+<img src="documentation/images/dev-case-assembly.gif" alt="assembly" width="300 ">
+<img src="documentation/images/dev-case-explode.gif" alt="assembly" width="300 ">
 
 ### [Design 2]()
 
