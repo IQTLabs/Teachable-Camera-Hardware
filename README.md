@@ -1,14 +1,14 @@
-# EyeQT Hardware
+# Teachable Camera Hardware
 
 ## Introduction
 
-This repository contains the design files for building the supporting hardware for the EyeQT Machine Learning demonstrator. The key hardware component of the project [Google Coral Dev Board]() and we experimented with a number of different design configurations to aid in development and allow more realistic environment testing.
+This repository contains the design files for building the supporting hardware for the Teachable Camera Machine Learning demonstrator. The key hardware component of the project [Google Coral Dev Board]() and we experimented with a number of different design configurations to aid in development and allow more realistic environment testing.
 
 ![StakeoutBox](documentation/images/001.jpg)
 
 ## Software
 
-For details about the software that runs on the Coral see the [EyeQT Software]() repository
+For details about the software that runs on the Coral see the [Teachable Camera Software]() repository
 
 ## Design Configuration
 
