@@ -19,9 +19,10 @@ There were three designs that we experimented with during the development of the
 <img src="documentation/images/dev-case-assembly.gif" alt="assembly" width="300 ">
 <img src="documentation/images/dev-case-explode.gif" alt="assembly" width="300 ">
 
-### [Design 2]()
+### [Design 2 - Coral in Pelican Case with USB Battery]()
 
-IMG
+<img src="documentation/images/design-2.mp4.gif" alt="assembly" width="300 ">
+<img src="documentation/images/design-2-explode.mp4.gif" alt="assembly" width="300 ">
 
 ### [Design 3]()
 
