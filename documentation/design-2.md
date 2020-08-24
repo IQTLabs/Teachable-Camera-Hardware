@@ -10,10 +10,13 @@ This is a simple system demonstrator utilizing the Google Coral Camera module ho
 
 ## Design files
 
-![SolidWorks Image](documentation/images/006.jpg)
+![SolidWorks Image](../documentation/images/006.jpg)
 
-[Link to Design Files](3d-design-files)
+<img src="../documentation/images/design-2.mp4.gif" alt="assembly" width="320 ">
+<img src="../documentation/images/design-2-explode.mp4.gif" alt="assembly" width="320 ">
+
+[Link to Design Files](../3d-design-files)
 
 ## Wiring
 
-![wiring](documentation/images/002.jpeg)
+![wiring](../documentation/images/002.jpeg)

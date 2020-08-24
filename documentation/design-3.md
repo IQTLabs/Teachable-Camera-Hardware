@@ -11,13 +11,15 @@ The is the full system demonstrator with a high quality security camera, pelican
 
 ## Design files
 
-![SolidWorks Image](documentation/images/005.jpg)
+![SolidWorks Image](../documentation/images/005.jpg)
 
-[Link to Design Files](3d-design-files)
+<img src="../documentation/images/design-3.mp4.gif" alt="assembly" width="320 ">
+
+[Link to Design Files](../3d-design-files)
 
 ## Wiring
 
-![wiring](documentation/images/003.jpeg)
+![wiring](../documentation/images/003.jpeg)
 
 ## BOM
 

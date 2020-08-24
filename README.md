@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the design files for building the supporting hardware for the Teachable Camera Machine Learning demonstrator. The key hardware component of the project [Google Coral Dev Board]() and we experimented with a number of different design configurations to aid in development and allow more realistic environment testing.
+This repository contains the design files for building the supporting hardware for the Teachable Camera Machine Learning demonstrator. The key hardware component of the project. [Google Coral Dev Board](). We experimented with a number of different design configurations to aid in development and allow more realistic environment testing.
 
 ![StakeoutBox](documentation/images/001.jpg)
 
@@ -16,17 +16,17 @@ There were three designs that we experimented with during the development of the
 
 ### [Design 1 - Simple 3D Printed Coral Case]()
 
-<img src="documentation/images/dev-case-assembly.gif" alt="assembly" width="300 ">
-<img src="documentation/images/dev-case-explode.gif" alt="assembly" width="300 ">
+<img src="documentation/images/dev-case-assembly.gif" alt="assembly" width="250 ">
+<img src="documentation/images/dev-case-explode.gif" alt="assembly" width="250 ">
 
 ### [Design 2 - Coral in Pelican Case with USB Battery]()
 
-<img src="documentation/images/design-2.mp4.gif" alt="assembly" width="300 ">
-<img src="documentation/images/design-2-explode.mp4.gif" alt="assembly" width="300 ">
+<img src="documentation/images/design-2.mp4.gif" alt="assembly" width="250 ">
+<img src="documentation/images/design-2-explode.mp4.gif" alt="assembly" width="250 ">
 
-### [Design 3]()
+### [Design 3 - Coral in Pelican Case, GoalZero Battery, Ubiquity IP Camera]()
 
-IMG
+<img src="documentation/images/design-3.mp4.gif" alt="assembly" width="250 ">
 
 ## Design Features
 

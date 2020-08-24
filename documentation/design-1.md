@@ -10,10 +10,13 @@ This is a simple enclosure intended to house the Google Coral + Camera during de
 
 ## Design files
 
-![SolidWorks Image](documentation/images/007.jpg)
+![SolidWorks Image](../documentation/images/007.jpg)
 
-[Link to Design Files](3d-design-files)
+<img src="../documentation/images/dev-case-assembly.gif" alt="assembly" width="320 ">
+<img src="../documentation/images/dev-case-explode.gif" alt="assembly" width="320 ">
+
+[Link to Design Files](../3d-design-files)
 
 ## Wiring
 
-![wiring](documentation/images/004.jpeg)
+![wiring](../documentation/images/004.jpeg)
