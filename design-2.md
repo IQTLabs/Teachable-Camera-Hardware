@@ -8,15 +8,18 @@ This is a simple system demonstrator utilizing the Google Coral Camera module ho
 - Pelican Case
 - USB Battery 
 
-## Design files
+## Design Files 
+-   [SolidWorks, STLs](./design-files/design-2/)
 
-![SolidWorks Image](../documentation/images/006.jpg)
+## Images and Assembly Diagram
 
-<img src="../documentation/images/design-2.mp4.gif" alt="assembly" width="320 ">
-<img src="../documentation/images/design-2-explode.mp4.gif" alt="assembly" width="320 ">
-
-[Link to Design Files](../3d-design-files)
+<img src="./images/design-2.jpg" alt="assembly" width="75%">
+<img src="./images/design-2.mp4.gif" alt="assembly" width="75%">
+<img src="./images/design-2-explode.mp4.gif" alt="assembly" width="75%">
 
 ## Wiring
 
-![wiring](../documentation/images/002.jpeg)
+![wiring](./images/002.jpeg)
+
+## BOM
+

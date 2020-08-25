@@ -9,17 +9,17 @@ The is the full system demonstrator with a high quality security camera, pelican
 - Pelican Case
 - GoalZero Battery
 
-## Design files
+## Design Files 
+-   [SolidWorks, STLs](./design-files/design-3/)
 
-![SolidWorks Image](../documentation/images/005.jpg)
+## Images and Assembly Diagram
 
-<img src="../documentation/images/design-3.mp4.gif" alt="assembly" width="320 ">
-
-[Link to Design Files](../3d-design-files)
+<img src="./images/design-3.jpg" alt="assembly" width="75%">
+<img src="./images/design-3.mp4.gif" alt="assembly" width="75%">
 
 ## Wiring
 
-![wiring](../documentation/images/003.jpeg)
+![wiring](./images/003.jpeg)
 
 ## BOM
 

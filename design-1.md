@@ -8,15 +8,17 @@ This is a simple enclosure intended to house the Google Coral + Camera during de
 - Coral Camera
 - 3D Printed Case
 
-## Design files
+## Design Files 
+-   [SolidWorks, STLs](./design-files/design-1/)
 
-![SolidWorks Image](../documentation/images/007.jpg)
+## Images and Assembly Diagram
 
-<img src="../documentation/images/dev-case-assembly.gif" alt="assembly" width="320 ">
-<img src="../documentation/images/dev-case-explode.gif" alt="assembly" width="320 ">
-
-[Link to Design Files](../3d-design-files)
+<img src="./images/design-1.jpg" alt="assembly" width="75%">
+<img src="./images/dev-case-assembly.gif" alt="assembly" width="75%">
+<img src="./images/dev-case-explode.gif" alt="assembly" width="75%">
 
 ## Wiring
 
-![wiring](../documentation/images/004.jpeg)
+![wiring](./images/004.jpeg)
+
+## BOM
