@@ -22,3 +22,8 @@ This is a simple enclosure intended to house the Google Coral + Camera during de
 ![wiring](./images/004.jpeg)
 
 ## BOM
+
+| Item                               | Quantity | Price | Link                                                                                                                                                                                          | Power Datasheet Spec | Power Actual Measured | Weight | Other |
+|------------------------------------|----------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-----------------------|--------|-------|
+| Google Coral Dev Board             | 1        | $150  | https://coral.ai/products/dev-board                                                                                                                                                           | 15W                  |                       | < 1lbs |       |
+| Google Coral Camera                | 1        | $20   | https://coral.ai/products/camera/                                                                                                                                                             |                      |                       |        |       |
