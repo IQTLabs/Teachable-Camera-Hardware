@@ -12,21 +12,21 @@ _Teachable Camera in the wild_
 
 For details about the software that runs on the Coral see the [Teachable Camera Software](https://github.com/IQTLabs/Teachable-Camera) repository
 
-## Design Configuration
+## Design Configurations
 
-There were three designs that we experimented with during the development of the project.
+There were three designs that we experimented with during the development of the project. Follow the links for more details on each design.
 
-### [Design 1 - Simple 3D Printed Coral Case](./design-1.md)
+### [Design 1 - Benchtop Testing (Simple 3D Printed Coral Case)](./design-1.md)
 
-<img src="./images/design-1.jpg" alt="assembly" width="50%">
+<a href="./design-1.md"><img src="./images/design-1.jpg" alt="assembly" width="50%"></a>
 
-### [Design 2 - Coral in Pelican Case with USB Battery](./design-2.md)
+### [Design 2 - Light Field Deployment (Coral in Pelican Case with USB Battery)](./design-2.md)
 
-<img src="./images/design-2.jpg" alt="assembly" width="50%">
+<a href="./design-2.md"><img src="./images/design-2.jpg" alt="assembly" width="50%"></a>
 
-### [Design 3 - Coral in Pelican Case, GoalZero Battery, Ubiquity IP Camera](./design-3.md)
+### [Design 3 - Extended Run Field Deployment (Coral in Pelican Case, GoalZero Battery, Ubiquity IP Camera](./design-3.md)
 
-<img src="./images/design-3.jpg" alt="assembly" width="50%">
+<a href="./design-3.md"><img src="./images/design-3.jpg" alt="assembly" width="50%"></a>
 
 ## Design Features of Note
 
