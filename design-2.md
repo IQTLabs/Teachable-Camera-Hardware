@@ -21,6 +21,18 @@ This is a simple system demonstrator utilizing the Google Coral Camera module ho
 
 ![wiring](./images/002.jpeg)
 
+## Power Consumption and Run Time
+
+Below are cursory power consumption and run time measurements in order to establish the baseline battery life of the system. Note that no significant effort went into minimizing power consumption, and that the system can theoretically run longer than this.
+
+| Device          | Power Consumption        |
+|-----------------|--------------------------|
+| Coral Dev Board | 6.2W                     |
+
+| Power Source | Run Time |
+|---------|----------|
+| RAV 26800mAh (134Wh) | ~9.5h |
+
 ## BOM
 
 | Item                               | Quantity | Price | Link                                                                                                                                                                                          | Power Datasheet Spec | Power Actual Measured | Weight | Other |

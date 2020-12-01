@@ -21,6 +21,20 @@ The is the full system demonstrator with a high quality security camera, pelican
 
 ![wiring](./images/003.jpeg)
 
+## Power Consumption and Run Time
+
+Below are cursory power consumption and run time measurements in order to establish the baseline battery life of the system. Note that no significant effort went into minimizing power consumption, and that the system can theoretically run longer than this.
+
+| Device          | Power Consumption        |
+|-----------------|--------------------------|
+| Coral Dev Board | 6.2W                     |
+| Ubiquity G3 Pro | 4.3/11.1W (day/night IR) |
+
+| Power Source                                                                    | Run Time |
+|---------------------------------------------------------------------------------|----------|
+| GoalZero 200X (~200Wh)                                                          | ~25h     |
+| GoalZero 200X full recharge using 50W solar panel while the system is operating | ~10h     |
+
 ## BOM
 
 ### Key Hardware
