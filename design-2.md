@@ -1,6 +1,6 @@
 # Design 2
 
-This is a simple system demonstrator utilizing the Google Coral Camera module housed in a Pelican case with a USB battery that will operator for ~18h.
+The Light Field Deployment hardware is a simple configuration with a durable case that houses the Google Coral Development Board and large USB battery. This configuration is built upon a 3D printed chassis that holds the Coral, camera, and battery, and is mounted inside a small Pelican case. The configuration allows the system to be deployed in areas without power for short durations and provides more protection when transporting/shipping the system. With a 26800mAh USB battery the system will operate for approximately 10 hours.
 
 ## Key Components
 - Coral Dev Board 

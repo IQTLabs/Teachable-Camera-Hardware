@@ -18,15 +18,27 @@ There were three designs that we experimented with during the development of the
 
 ### [Design 1 - Benchtop Testing (Simple 3D Printed Coral Case)](./design-1.md)
 
+The Benchtop Testing hardware is a simple case configuration that houses the Google Coral Development Board and provides a mount which allows you to aim the Coral Camera. The enclosure is 3D printed and provides basic protection for the electronics. This configuration was used to do most of the development and testing of the system.
+
 <a href="./design-1.md"><img src="./images/design-1.jpg" alt="assembly" width="50%"></a>
+
+See [Design 1 page](./design-1.md) for more details.
 
 ### [Design 2 - Light Field Deployment (Coral in Pelican Case with USB Battery)](./design-2.md)
 
+The Light Field Deployment hardware is a simple configuration with a durable case that houses the Google Coral Development Board and large USB battery. This configuration is built upon a 3D printed chassis that holds the Coral, camera, and battery, and is mounted inside a small Pelican case. The configuration allows the system to be deployed in areas without power for short durations and provides more protection when transporting/shipping the system. With a 26800mAh USB battery the system will operate for approximately 10 hours.
+
 <a href="./design-2.md"><img src="./images/design-2.jpg" alt="assembly" width="50%"></a>
+
+See [Design 2 page](./design-2.md) for more details.
 
 ### [Design 3 - Extended Run Field Deployment (Coral in Pelican Case, GoalZero Battery, Ubiquity IP Camera](./design-3.md)
 
+The Extended Run Field Deployment hardware is an advanced configuration with a durable case that houses the Google Coral Development Board, a GoalZero battery/solar power system, and a PoE Ubiquity G3 Pro security camera. 
+
 <a href="./design-3.md"><img src="./images/design-3.jpg" alt="assembly" width="50%"></a>
+
+See [Design 3 page](./design-3.md) for more details.
 
 ## Design Features of Note
 

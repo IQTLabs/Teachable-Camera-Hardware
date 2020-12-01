@@ -1,6 +1,11 @@
 # Design 3
 
-The is the full system demonstrator with a high quality security camera, pelican case, and GoalZero power supply capable of operating for 24h+ (potentially continuous operation with optional solar panel).
+The Extended Run Field Deployment hardware is an advanced configuration with a durable case that houses the Google Coral Development Board, a GoalZero battery/solar power system, and a PoE Ubiquity G3 Pro security camera. 
+
+To power system we chose the GoalZero 200X power station and the Boulder 50W solar panel. The GoalZero power stations are consumer friendly, the X series is light weight, and there are lots of options for additional battery or solar capacity. With this current configuration, the 200X power station provides 24+ hours of run time and with the solar panel (and about 10 hours of sun light) it is capable of running continuously. Note that no significant effort went into minimizing power consumption, and that the system can theoretically run longer than this.
+
+For this configuration we needed a way to power the Ubiquity G3 Pro Power over Ethernet (PoE) IP camera using a 5V USB source but were unaware of a commercial solution to accomplish this. To solve this, we sourced an off-brand DC-DC transformer from Amazon to step up the battery voltage from 5V to 48V.  We then connected it with a generic PoE injector to power the camera. To our surprise this solution ended up working quite well and could probably be utilized for other field PoE projects too.
+
 
 ## Key Components
 

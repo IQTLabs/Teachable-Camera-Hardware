@@ -1,6 +1,6 @@
 # Design 1
 
-This is a simple enclosure intended to house the Google Coral + Camera during development.
+The Benchtop Testing hardware is a simple case configuration that houses the Google Coral Development Board and provides a mount which allows you to aim the Coral Camera. The enclosure is 3D printed and provides basic protection for the electronics. This configuration was used to do most of the development and testing of the system.
 
 ## Key Components
 
