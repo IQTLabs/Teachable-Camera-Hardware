@@ -14,7 +14,7 @@ For details about the software that runs on the Coral see the [Teachable Camera 
 
 ## Design Configurations
 
-There were three designs that we experimented with during the development of the project. Follow the links for more details on each design.
+There were three designs that we experimented with during the development of the project.
 
 ### [Design 1 - Benchtop Testing (Simple 3D Printed Coral Case)](./design-1.md)
 
