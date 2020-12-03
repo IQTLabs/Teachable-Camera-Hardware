@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the design files that we used for building a Teachable Camera. The Teachable Camera is built using the [Google Coral Dev Board](https://coral.ai/), commercially available components, and a few 3D printed parts. We experimented with a number of different design configurations to aid in development and allow the system to be tested in a more realistic environment.
+This repository contains the design files that we used for building a Teachable Camera. The Teachable Camera is built using the [Google Coral Dev Board](https://coral.ai/products/dev-board), commercially available components, and a few 3D printed parts. We experimented with a number of different design configurations to aid in development and allow the system to be tested in a more realistic environment.
 
 <img src="./images/001.jpg" alt="assembly" width="50%">
 
@@ -44,11 +44,11 @@ See [Design 3 page](./design-3.md) for more details.
 
 ### Power/Solar
 
-For the field system (Design 3) power we chose the GoalZero [200X power supply](https://www.goalzero.com/) and the [Boulder 50W](https://www.goalzero.com/) solar panel. The GoalZero power supplies are consumer friendly, the X series is light weight, and there are lots of options for additional battery or solar capacity.
+For the field system (Design 3) power we chose the GoalZero [200X power supply](https://www.goalzero.com/shop/portable-power/goal-zero-yeti-200x/) and the [Boulder 50W](https://www.goalzero.com/shop/solar-panels/boulder-50-solar-panel/) solar panel. The GoalZero power supplies are consumer friendly, the X series is light weight, and there are lots of options for additional battery or solar capacity.
 
 ### PoE Power
 
-We needed a way to power the Ubiquity Power over Ethernet (PoE) IP camera using a 5V battery but were unable to located a commerical solution. To solve this we sourced [DC-DC transformer]() to step up the battery voltage from 5V to 48V coupled with a generic [PoE injector]() to power the camera. This solution ended up working quite well and could probably be utilized for other projects too. 
+We needed a way to power the Ubiquity Power over Ethernet (PoE) IP camera using a 5V battery but were unable to located a commerical solution. To solve this we sourced [DC-DC transformer](https://www.amazon.com/Yeeco-Converter-Adjustable-Transformer-Stabilizer/dp/B074J9D278/ref=sr_1_11?dchild=1&keywords=5v+to+48v&qid=1598463288&sr=8-11) to step up the battery voltage from 5V to 48V coupled with a generic [PoE injector](https://www.amazon.com/WS-GPOE-1-WM-Gigabit-Passive-Ethernet-Injector/dp/B00ENNUWO4/ref=sr_1_3?crid=3F1UOEQOGUEO&dchild=1&keywords=24v+poe+injector+dc&qid=1591818504&sprefix=24v+poe+i%2Caps%2C146&sr=8-3) to power the camera. This solution ended up working quite well and could probably be utilized for other projects too. 
 
 ### 3D Printing
 
