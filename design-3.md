@@ -24,7 +24,7 @@ For this configuration we needed a way to power the Ubiquity G3 Pro Power over E
 
 ## Wiring
 
-![wiring](./images/003.jpeg)
+<img src="./images/design3-wiring.png" alt="wiring" width="75%">
 
 ## Power Consumption and Run Time
 

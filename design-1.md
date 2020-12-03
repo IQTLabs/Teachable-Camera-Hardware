@@ -19,7 +19,7 @@ The Benchtop Testing hardware is a simple case configuration that houses the Goo
 
 ## Wiring
 
-![wiring](./images/004.jpeg)
+<img src="./images/design1-wiring.png" alt="wiring" width="75%">
 
 ## BOM
 

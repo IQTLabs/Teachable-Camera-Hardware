@@ -19,7 +19,7 @@ The Light Field Deployment hardware is a simple configuration with a durable cas
 
 ## Wiring
 
-![wiring](./images/002.jpeg)
+<img src="./images/design2-wiring.png" alt="wiring" width="75%">
 
 ## Power Consumption and Run Time
 
